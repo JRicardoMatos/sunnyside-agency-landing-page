@@ -71,7 +71,7 @@ p {
 
 .hero {
   text-align: center;
-  background: url("/image-header.jpg");
+  background: url("./image-header.jpg");
   height: 82vh;
   background-size: cover;
   background-position-y: bottom;
